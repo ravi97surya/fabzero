@@ -45,8 +45,8 @@ we learnt to edit in visual studio code and clone the same to git hub and push t
 repository cloning has been done with visual studio code.
 user name and user email id has been added in github for windows to auto sync codes and edits. 
 Mentor has thought us to update images in source and update the same into github website.
-lunch break :rice_ball:      :fork_and_knife:              :bento:.
+lunch break :rice_ball:      :fork_and_knife:              :bento:  :mushroom:.
 Inventory of Electronics particles and put in to boxes has guided by mentor.
-handson training on Vinyl Cutter and 3D printer.
+handson training on Vinyl Cutter and 3D printer :electric_plug:.
 Tea Break has taken :tea:.
 Installed software of 3D Wox Sindoh Software and 3D image has downloaded from thingiverse.com to print 
