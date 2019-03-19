@@ -2,7 +2,7 @@
 STPI Fab Zero
 # **Ravi's Experience on FabZero**
 Hello My Name is RAVI SC
-Day 1 on FabZero Pre-Academy
+## Day 1 on FabZero Pre-Academy
 After an introduction of Mentor by Director BBSR DG STPI has inaugurated FabZero Pre-Academy Training
 Members of training has introduced themselves to Director BBSR and Men FabZero Academy
 all Members and mentor has taken tea break
@@ -27,5 +27,5 @@ list of the devices
 After introduction to Lab equipments mentor has explained how to create account in github \
 
 
-**Day 2 at FabLab Training** 
+## **Day 2 at FabLab Training** 
 :shipit:
