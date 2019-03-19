@@ -33,4 +33,7 @@ Mentor has started session on day2 to insisted us to install software of editing
 Inkscape and Ultimaker cura has downloaded and installed.
 git for windows has downloaded to edit and upload to github website.
 Tea Break has taken :tea:.
-mentor has shifted Vinyl laser cutter and desktops to training session. 
+mentor has shifted Vinyl laser cutter and desktops to training session.
+we learnt to edit in visual studio code and clone the same to git hub and push the command.
+repository cloning has been done with visual studio code.
+user name and user email id has been added in github for windows to auto sync codes and edits. 
