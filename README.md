@@ -25,3 +25,4 @@ list of the devices
 - De soldering Gun
 - Drilling Machine
 After introduction to Lab equipments mentor has explained how to create account in github
+Day 2 at FabLab Training 
