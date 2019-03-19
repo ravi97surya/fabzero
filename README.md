@@ -1,6 +1,6 @@
 # fabzero
 STPI Fab Zero
-# Ravi's Experience on FabZero
+# **Ravi's Experience on FabZero**
 Hello My Name is RAVI SC
 Day 1 on FabZero Pre-Academy
 After an introduction of Mentor by Director BBSR DG STPI has inaugurated FabZero Pre-Academy Training
@@ -24,7 +24,7 @@ list of the devices
 - Water Jet
 - De soldering Gun
 - Drilling Machine
-After introduction to Lab equipments mentor has explained how to create account in github\
+After introduction to Lab equipments mentor has explained how to create account in github \
 -
 -
-Day 2 at FabLab Training 
+**Day 2 at FabLab Training** 
