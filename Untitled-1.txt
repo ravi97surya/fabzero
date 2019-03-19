@@ -10,7 +10,7 @@ after long lunch break mentor has taken everyone to FabLab for Handson
 mentor has show the equipments and explained the functionality of each device in details
 list of the devices
 - Laser Cutter
-- Vinyl Cutter
+- Vinyl Cutter()
 - Carbon filter
 - 2D Printer
 - 3D Printers

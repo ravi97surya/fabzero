@@ -13,6 +13,9 @@ mentor has show the equipments and explained the functionality of each device in
 list of the devices
 - Laser Cutter
 - Vinyl Cutter
+
+![image of vinyl cutter](img/vinylcutter.jpg)
+
 - Carbon filter
 - 2D Printer
 - 3D Printers
@@ -23,8 +26,9 @@ list of the devices
 - Automatic Scroll Machine
 - Water Jet
 - De soldering Gun
-- Drilling Machine
-\After introduction to Lab equipments mentor has explained how to create account in github.:smile: 
+- Drilling Machine  \
+
+After introduction to Lab equipments mentor has explained how to create account in github.:smile: 
 End of the Day 1 Training and left for hotel :car::hotel: \
 
 
