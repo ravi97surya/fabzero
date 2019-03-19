@@ -28,7 +28,8 @@ After introduction to Lab equipments mentor has explained how to create account 
 
 
 ## **Day 2 at FabLab Training** 
-Mentor has started session on day2 to insisted us to install software of editing.
+Mentor has started session on day2 to insisted us to install software of editing and thought us to add spell check plugin.
 Inkscape and Ultimaker cura has downloaded and installed.
 git for windows has downloaded to edit and upload to github website.
+Tea Break has taken.
 mentor has shifted Vinyl laser cutter and desktops to training session. 
