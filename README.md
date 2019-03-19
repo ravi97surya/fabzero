@@ -24,5 +24,5 @@ list of the devices
 - Water Jet
 - De soldering Gun
 - Drilling Machine
-After introduction to Lab equipments mentor has explained how to create account in github
+After introduction to Lab equipments mentor has explained how to create account in github\
 Day 2 at FabLab Training 
