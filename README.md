@@ -1,6 +1,5 @@
-# fabzero
-STPI Fab Zero
-# **Ravi's Experience on FabZero**
+
+# Ravi's Experience on FabZero
 Hello My Name is RAVI SC
 ## Day 1 at FabZero Pre-Academy
 After an introduction of Mentor by Director BBSR DG STPI :office: has inaugurated FabZero Pre-Academy Training.
@@ -36,7 +35,7 @@ After introduction to Lab equipments mentor has explained how to create account 
 End of the Day 1 Training and left for hotel :car::hotel: \
 
 
-## **Day 2 at FabZero Pre-Academy** 
+## Day 2 at FabZero Pre-Academy 
 Mentor has started session on day2 to insisted us to install software of editing and thought us to add spell check plugin.
 Inkscape and Ultimaker cura has downloaded and installed.
 git for windows has downloaded to edit and upload to github website.
@@ -45,4 +44,6 @@ mentor has shifted Vinyl laser cutter and desktops to training session.
 we learnt to edit in visual studio code and clone the same to git hub and push the command.
 repository cloning has been done with visual studio code.
 user name and user email id has been added in github for windows to auto sync codes and edits. 
-lunch break :rice_ball:      :fork_and_knife:              :bento:
+Mentor has thought us to update images in source and update the same into github website.
+lunch break :rice_ball:      :fork_and_knife:              :bento:.
+
