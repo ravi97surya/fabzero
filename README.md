@@ -19,6 +19,10 @@ list of the devices
 - Carbon filter
 - 2D Printer
 - 3D Printers
+
+![image of 3d cutter](img/3dcutter.jpg)
+![image of 3d cutter](img/3dlasercutter.jpg)
+
 - Milling Machine
 - Micro Scope Camera
 - Oscilloscope
