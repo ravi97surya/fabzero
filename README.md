@@ -29,10 +29,10 @@ list of the devices
 - Automatic Scroll Machine
 - Water Jet
 - De soldering Gun
-- Drilling Machine  \
+- Drilling Machine
 
 After introduction to Lab equipments mentor has explained how to create account in github.:smile: 
-End of the Day 1 Training and left for hotel :car::hotel: \
+End of the Day 1 Training and left for hotel :car::hotel:
 
 
 ## Day 2 at FabZero Pre-Academy 
