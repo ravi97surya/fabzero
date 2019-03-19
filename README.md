@@ -45,3 +45,4 @@ mentor has shifted Vinyl laser cutter and desktops to training session.
 we learnt to edit in visual studio code and clone the same to git hub and push the command.
 repository cloning has been done with visual studio code.
 user name and user email id has been added in github for windows to auto sync codes and edits. 
+lunch break :rice_ball:      :fork_and_knife:              :bento:
