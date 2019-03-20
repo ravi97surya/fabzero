@@ -1,40 +1,40 @@
 	 	
 # रवि एस.सी. / Ravi S.C 
 
-##Emp Code
+## Emp Code
 STPI334
 
-##Father's Name
+## Father's Name
 Chikkaramu 
 
-##Mother's Name
+## Mother's Name
 Lakshmamma 
 
-##Designation
+## Designation
 MTSS ES-VI 	
 
-##Marital Status
+## Marital Status
 Married 
 
-##Date of Birth
+## Date of Birth
 31-Jul-1987 
 
-##Division
+## Division
 Technical 
 
-##Qualification
+## Qualification
 Diploma in Electronics and communication
 
-##Date of Joining
+## Date of Joining
 19-Nov-2007  (FN)
 
-##Tel. No (Office)
+## Tel. No (Office)
 08066186031
 
-##Mobile No.
+## Mobile No.
 9886240160
 
-##Email
+## Email
 sc.ravi@stpi.in 
 
 ## Address	
