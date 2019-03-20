@@ -18,7 +18,6 @@ Hello My Name is RAVI SC
 - De soldering Gun
 - Drilling Machine
 
-
-[Day 2 at FabZero Pre-Academy] (day2.md) 
+[Day 2 at FabZero Pre-Academy](day2.md) 
 
 ## Day 3 at FabZero Pre-Academy 
