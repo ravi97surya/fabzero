@@ -12,13 +12,12 @@ mentor has show the equipments and explained the functionality of each device in
 list of the devices
 - Laser Cutter
 - Vinyl Cutter
-![](fabzero/vinylcutter.md)
+![](vinylcutter.md)
 
 - Carbon filter
 - 2D Printer
 - 3D Printers
-
-![](fabzero/3dprinter.md)
+![](3dprinter.md)
 
 
 - Milling Machine
