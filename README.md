@@ -12,15 +12,14 @@ mentor has show the equipments and explained the functionality of each device in
 list of the devices
 - Laser Cutter
 - Vinyl Cutter
-
-![image of vinyl cutter](img/vinylcutter.jpg)
+![image of vinyl cutter](vinylcutter.md)
 
 - Carbon filter
 - 2D Printer
 - 3D Printers
 
-![image of 3d cutter](img/3dcutter.jpg)
-![image of 3d cutter](img/3dlasercutter.jpg)
+![image of 3d cutter](3dprinter.md)
+
 
 - Milling Machine
 - Micro Scope Camera
