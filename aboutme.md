@@ -1,19 +1,19 @@
 	 	
 # रवि एस.सी. / Ravi S.C 
 
-## Emp Code
+### Emp Code
 STPI334
 
-## Organization
+### Organization
 Software Technology Parks of India
 
-## Qualification
+### Qualification
 Diploma in Electronics and communication
 
-## Mobile No.
+### Mobile No.
 9886240160
 
-## Email
+### Email
 sc.ravi@stpi.in 
 
 
