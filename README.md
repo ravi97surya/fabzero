@@ -1,7 +1,7 @@
 
 # Ravi's Experience on FabZero
 Hello My Name is RAVI SC
-## [Day 1 at FabZero Pre-Academy] (day1.md)
+[Day 1 at FabZero Pre-Academy](day1.md)
 
 ## list of the FabZero devices
 - Laser Cutter
@@ -19,6 +19,6 @@ Hello My Name is RAVI SC
 - Drilling Machine
 
 
-## [Day 2 at FabZero Pre-Academy] (day2.md) 
+[Day 2 at FabZero Pre-Academy] (day2.md) 
 
 ## Day 3 at FabZero Pre-Academy 
