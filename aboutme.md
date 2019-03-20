@@ -1,5 +1,6 @@
 	 	
-# रवि एस.सी. / Ravi S.C 
+# रवि एस.सी. / Ravi S.C
+![image of ravi sc](img/ravi.jpg) 
 
 ### Emp Code
 STPI334
