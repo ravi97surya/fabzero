@@ -5,7 +5,11 @@
 
 [Day 1 at FabZero Pre-Academy](day1.md)
 
-## list of the FabZero devices
+[Day 2 at FabZero Pre-Academy](day2.md)
+
+[Day 3 at FabZero Pre-Academy](day3.md)
+
+## list of the FabLab devices
 - Laser Cutter
 - [Vinyl Cutter](vinylcutter.md)
 - Carbon filter
@@ -19,7 +23,3 @@
 - Water Jet
 - De soldering Gun
 - Drilling Machine
-
-[Day 2 at FabZero Pre-Academy](day2.md) 
-
-## Day 3 at FabZero Pre-Academy 
