@@ -1,6 +1,8 @@
 
 # Ravi's Experience on FabZero
-Hello My Name is RAVI SC
+
+[RAVI SC](aboutme.md)
+
 [Day 1 at FabZero Pre-Academy](day1.md)
 
 ## list of the FabZero devices
