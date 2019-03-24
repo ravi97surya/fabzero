@@ -17,7 +17,7 @@
 
 ## list of the FabLab devices
 - Laser Cutter
-- [Vinyl Cutter]mdfiles/(vinylcutter.md)
+- [Vinyl Cutter](mdfiles/vinylcutter.md)
 - Carbon filter
 - 2D Printer
 - [3D Printers](mdfiles/3dprinter.md)
