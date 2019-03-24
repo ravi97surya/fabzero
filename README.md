@@ -1,7 +1,7 @@
 
 # Ravi's Experience on FabZero
 
-[RAVI SC](aboutme.md)
+[About RAVI SC](aboutme.md)
 
 [Name on Certificate](certificatename.md)
 
