@@ -27,3 +27,11 @@ STPI has a significant presence in Odisha. It has eight centres in the state, th
 [FAB FOUNDATION](https://odisha.gov.in/)
 
 ![Fab Foundation](img/fabfound.png)
+
+![Fab Foundation](img/mou1.jpg)
+
+![Fab Foundation](img/mou2.jpg)
+
+![Fab Foundation](img/mou3.jpg)
+
+![Fab Foundation](img/mou4.jpg)
