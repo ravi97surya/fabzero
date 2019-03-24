@@ -17,5 +17,7 @@ Diploma in Electronics and communication
 ### Email
 sc.ravi@stpi.in 
 
+[Name on Certificate](certificatename.md)
+
 
 

@@ -3,8 +3,6 @@
 
 [About RAVI SC](aboutme.md)
 
-[Name on Certificate](certificatename.md)
-
 [About STPI-Bhubneswar FabLab](fablabstpi.md)
 
 [Day 1 at FabZero Pre-Academy](day1.md)
