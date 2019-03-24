@@ -1,3 +1,5 @@
+## STPI inks MoU with Fab Foundation to set up fabrication lab in Bhubaneswar
+
 The Software Technology Parks of India (STPI), an autonomous body under the Ministry of Electronics and Information Technology (Meity), has entered into a memorandum of understanding (MoU) with US-based Fab Foundation for setting up a Fab (fabrication) Lab in Bhubaneswar.
 
 A Fab lab is a technical prototyping platform for innovation and learning aimed at providing stimulus for promoting local entrepreneurship. The lab provides tools for entrepreneurs, in both developed and developing nations, to prototype their ideas at reduced cost.

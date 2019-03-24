@@ -2,6 +2,10 @@
 
 [MoU](mou.md)
 
+## Training Program of 2nd Phase Fab Lab Training
+
+[Training Program](prg.md)
+
 ## Inauguration of 2nd Phase Fab Lab Training
 
 [Inauguration](inauguration.md)
