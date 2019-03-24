@@ -24,6 +24,6 @@ STPI has a significant presence in Odisha. It has eight centres in the state, th
 
 2nd Phase Fab Lab Training is Inaugurated by DG STPI on 18 March 2019
 
-![Inaguration of Fab Lab](img/dg1.jpg)
-![Inaguration of Fab Lab](img/dg2.jpg)
-![Inaguration of Fab Lab](img/dg3.jpg)
+![Inauguration of Fab Lab](img/dg1.jpg)
+![Inauguration of Fab Lab](img/dg2.jpg)
+![Inauguration of Fab Lab](img/dg3.jpg)
