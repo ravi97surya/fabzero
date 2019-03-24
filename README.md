@@ -9,6 +9,8 @@
 
 [Day 3 at FabZero Pre-Academy](day3.md)
 
+[Day 4 at FabZero Pre-Academy](day4.md)
+
 ## list of the FabLab devices
 - Laser Cutter
 - [Vinyl Cutter](vinylcutter.md)
@@ -16,6 +18,7 @@
 - 2D Printer
 - [3D Printers](3dprinter.md)
 - Milling Machine
+- [3D Printers](millingmachine.md)
 - Micro Scope Camera
 - Oscilloscope
 - Function Generator
