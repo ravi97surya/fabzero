@@ -14,3 +14,4 @@
 https://www.business-standard.com/article/current-affairs/odisha-s-fab-lab-to-be-soon-connected-globally-119032001000_1.html
 
 https://www.indiafinancenews.com/odishas-fab-lab-to-be-soon-connected-globally/
+http://www.newindianexpress.com/states/odisha/2018/aug/06/bhubaneshwar-software-technology-parks-of-india-eyes-10-per-cent-growth-in-it-exports-1853928.html
