@@ -17,8 +17,7 @@
 - Carbon filter
 - 2D Printer
 - [3D Printers](3dprinter.md)
-- Milling Machine
-- [3D Printers](millingmachine.md)
+- [Milling Machine](millingmachine.md)
 - Micro Scope Camera
 - Oscilloscope
 - Function Generator
