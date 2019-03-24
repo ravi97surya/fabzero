@@ -8,8 +8,9 @@
 ![Inauguration of Fab Lab](img/ing1.jpg)
 ### Director STPI Bhubneswar addressing the participants at Launching of Pre Fab Academy Training
 ![Inauguration of Fab Lab](img/ing2.jpg)
+### participants at Launching of Pre Fab Academy Training
+![Inauguration of Fab Lab](img/ing3.jpg)
 ### Highlights of DG's Speech at Launching of Pre Fab Academy Training
 ![Inauguration of Fab Lab](img/dg2.jpg)
 ![Inauguration of Fab Lab](img/dg3.jpg)
-### participants at Launching of Pre Fab Academy Training
-![Inauguration of Fab Lab](img/ing3.jpg)
+
