@@ -4,4 +4,5 @@ Design and Fabrication of a programable electronic circuit The process will star
 using milling machine i have done pcb design
 two different drilling machine blade with different size is used for milling and cutting of PCB as we required
 
+![image of pcb](img/pcbmilling.jpg)
 ![image of pcb](img/pcb.jpg)
