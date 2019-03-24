@@ -8,5 +8,4 @@ The one major limitation with vinyl cutters is that they can only cut shapes fro
 In addition to the capabilities of the cutter itself, the adhesive vinyl comes in a wide variety of colours and materials including gold and silver foil, vinyl that simulates frosted glass, holographic vinyl, reflective vinyl, thermal transfer material, and even clear vinyl imbedded with gold leaf. (Often used in the lettering on fire trucks and rescue vehicles.
 ![image of vinyl cutter](img/vinyl.jpg)
 
-### Installing a Blade
-![User Manual](pdf/usermanual.pdf)
+[User Manual](pdf/usermanual.pdf)
