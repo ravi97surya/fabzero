@@ -2,6 +2,8 @@ Printed circuit board milling (also: isolation milling) is the process of removi
 
 ![image of vinyl cutter](img/mm.png)
 
+[About Product](pdf/srm20.pdf)
+
 The SRM-20 portable milling machine can mill a broad range of materials, including modeling wax, chemical wood, foam, acrylic, poly acetate, ABS and PC board. The following items are just some of the prototypes and applications made possible:
 
 - Product inventions
