@@ -1,3 +1,6 @@
+## STPI bhubneswar Fab Lab
+![FabLab Logo](img/fablogo.jpg)
+
 [First Step towards setting up FabLab at STPI-Bhubneswar](mou.md)
 
 [Training Program of 2nd Phase Fab Lab Training](prg.md)
