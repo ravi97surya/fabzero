@@ -6,4 +6,4 @@ To cut out a design a vector-based image must be created in a software program (
 The one major limitation with vinyl cutters is that they can only cut shapes from solid colours of vinyl. A design with multiple colours must have each colour cut separately and then layered on top of each other as it is applied to the substrate. Also, since the shapes are cut out of solid colours, photographs and gradients cannot be reproduced with a stand alone cutter.
 
 In addition to the capabilities of the cutter itself, the adhesive vinyl comes in a wide variety of colours and materials including gold and silver foil, vinyl that simulates frosted glass, holographic vinyl, reflective vinyl, thermal transfer material, and even clear vinyl imbedded with gold leaf. (Often used in the lettering on fire trucks and rescue vehicles.
-![image of vinyl cutter](img/vinylcutter.jpg)
+![image of vinyl cutter](img/vinyl.jpg)
