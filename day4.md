@@ -6,3 +6,7 @@ two different drilling machine blade with different size is used for milling and
 
 ![image of pcb](img/pcbmilling.jpg)
 ![image of pcb](img/pcb.jpg)
+
+3D image has downloaded from thinkiverse.com and same has printed using 3D Wox desktop sindoh
+
+![image of vinyl cutter](img/3dmodel1.jpg)
