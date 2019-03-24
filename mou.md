@@ -16,6 +16,11 @@ Sprawling across three acres of land, the state-of-the-art building of STPI will
 
 STPI has a significant presence in Odisha. It has eight centres in the state, the highest among all states. While four centres are already operational, the balance is yet to come up. STPI has four operational centres in Bhubaneswar, Rourkela, Berhampur and Balasore. The balance four new STPI centres will come up at Angul, Jajpur, Koraput (Jeypore) and Sambalpur.
 
+[SOFTWARE TECHNOLOGY PARKS OF INDIA](https://www.stpi.in/)
 ![STPI](img/stpi.png)
+
+[GOVERNMENT OF ODISHA](http://www.fabfoundation.org/)
 ![Govt. of Odisha](img/odisha.png)
+
+[FAB FOUNDATION](https://odisha.gov.in/)
 ![Fab Foundation](img/fabfound.png)
