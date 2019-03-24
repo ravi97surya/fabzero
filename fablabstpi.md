@@ -1,4 +1,4 @@
-## STPI Bhubneswar Fab Lab
+# STPI Bhubneswar Fab Lab
 ![FabLab Logo](img/fablogo.jpg)
 
 - [What is Fab Lab..?](whatisfablab.md)
