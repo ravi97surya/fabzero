@@ -17,3 +17,5 @@
 ## News about Fab Lab Bhubneswar
 
 https://www.business-standard.com/article/current-affairs/odisha-s-fab-lab-to-be-soon-connected-globally-119032001000_1.html
+
+https://www.indiafinancenews.com/odishas-fab-lab-to-be-soon-connected-globally/
