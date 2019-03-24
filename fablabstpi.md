@@ -13,3 +13,7 @@
 ## Inside Fab Lab STPI Bhubneswar
 
 [Inside Fab Lab](insidefablab.md)
+
+## News about Fab Lab Bhubneswar
+
+https://www.business-standard.com/article/current-affairs/odisha-s-fab-lab-to-be-soon-connected-globally-119032001000_1.html
