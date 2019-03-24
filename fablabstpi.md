@@ -1,18 +1,10 @@
-## First Step towards setting up FabLab at STPI-Bhubneswar
+[First Step towards setting up FabLab at STPI-Bhubneswar](mou.md)
 
-[MoU](mou.md)
+[Training Program of 2nd Phase Fab Lab Training](prg.md)
 
-## Training Program of 2nd Phase Fab Lab Training
+[Inauguration of 2nd Phase Fab Lab Training](inauguration.md)
 
-[Training Program](prg.md)
-
-## Inauguration of 2nd Phase Fab Lab Training
-
-[Inauguration](inauguration.md)
-
-## Inside Fab Lab STPI Bhubneswar
-
-[Inside Fab Lab](insidefablab.md)
+[Inside Fab Lab STPI Bhubneswar](insidefablab.md)
 
 ## News about Fab Lab Bhubneswar
 
