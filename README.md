@@ -15,6 +15,8 @@
 
 [Day 4 at FabZero Pre-Academy](day4.md)
 
+[Day 5 at FabZero Pre-Academy](day5.md)
+
 ## List of FabLab devices
 
 - [Vinyl Cutter](vinylcutter.md)
