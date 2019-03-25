@@ -14,16 +14,17 @@
 [Day 4 at FabZero Pre-Academy](day4.md)
 
 ## list of the FabLab devices
-- Laser Cutter
+
 - [Vinyl Cutter](vinylcutter.md)
-- Carbon filter
-- 2D Printer
 - [3D Printers](3dprinter.md)
 - [Milling Machine](millingmachine.md)
-- Micro Scope Camera
+- [Micro Scope Camera](microscope.md)
 - Oscilloscope
 - Function Generator
 - Automatic Scroll Machine
 - Water Jet
 - De soldering Gun
 - Drilling Machine
+- Carbon filter
+- 2D Printer
+- Laser Cutter
