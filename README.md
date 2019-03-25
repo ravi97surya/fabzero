@@ -1,28 +1,28 @@
 
 # Ravi's Experience on FabZero
 
-[About RAVI SC](aboutme.md)
+[About RAVI SC](mdfiles/aboutme.md)
 
-[About STPI-Bhubneswar FabLab](fablabstpi.md)
+[About STPI-Bhubneswar FabLab](mdfiles/fablabstpi.md)
 
 ## FabZero Pre-Academy Training at STPI Bhubneswar
 
-[Day 1 at FabZero Pre-Academy](day1.md)
+[Day 1 at FabZero Pre-Academy](mdfiles/day1.md)
 
-[Day 2 at FabZero Pre-Academy](day2.md)
+[Day 2 at FabZero Pre-Academy](mdfiles/day2.md)
 
-[Day 3 at FabZero Pre-Academy](day3.md)
+[Day 3 at FabZero Pre-Academy](mdfiles/day3.md)
 
-[Day 4 at FabZero Pre-Academy](day4.md)
+[Day 4 at FabZero Pre-Academy](mdfiles/day4.md)
 
-[Day 5 at FabZero Pre-Academy](day5.md)
+[Day 5 at FabZero Pre-Academy](mdfiles/day5.md)
 
 ## List of FabLab devices
 
-- [Vinyl Cutter](vinylcutter.md)
-- [3D Printers](3dprinter.md)
-- [Milling Machine](millingmachine.md)
-- [Micro Scope Camera](microscope.md)
+- [Vinyl Cutter](mdfiles/vinylcutter.md)
+- [3D Printers](mdfiles/3dprinter.md)
+- [Milling Machine](mdfiles/millingmachine.md)
+- [Micro Scope Camera](mdfiles/microscope.md)
 - Oscilloscope
 - Function Generator
 - Automatic Scroll Machine

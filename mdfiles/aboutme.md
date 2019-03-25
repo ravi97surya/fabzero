@@ -11,7 +11,7 @@ Software Technology Parks of India
 ### Qualification
 Diploma in Electronics and communication
 
-[Name on Certificate](certificatename.md)
+[Name on Certificate](mdfiles/certificatename.md)
 
 
 
