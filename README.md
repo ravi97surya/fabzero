@@ -4,19 +4,7 @@
 
 [About STPI-Bhubneswar FabLab](mdfiles/fablabstpi.md)
 
-## FabZero Pre-Academy Training at STPI Bhubneswar
-
-[About Trainers](mdfiles/trainers.md)
-
-[Day 1 at FabZero Pre-Academy](mdfiles/day1.md)
-
-[Day 2 at FabZero Pre-Academy](mdfiles/day2.md)
-
-[Day 3 at FabZero Pre-Academy](mdfiles/day3.md)
-
-[Day 4 at FabZero Pre-Academy](mdfiles/day4.md)
-
-[Day 5 at FabZero Pre-Academy](mdfiles/day5.md)
+[FabZero Pre-Academy Training at STPI Bhubneswar](mdfiles/training.md)
 
 ## List of FabLab devices
 
