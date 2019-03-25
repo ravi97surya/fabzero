@@ -1,4 +1,3 @@
-
 # Ravi's Experience on FabZero
 
 [About RAVI SC](mdfiles/aboutme.md)
