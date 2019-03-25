@@ -26,7 +26,7 @@
 
 ## PCB Board
 
-![PCB Board](../img/pcbboard.jpg)
+![PCB Board](../img/pcbborad.jpg)
 
 ## Allen Key Set
 
