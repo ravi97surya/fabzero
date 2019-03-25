@@ -13,3 +13,7 @@ People commonly use tweezers mainly for tasks such as plucking hair from the fac
 The largest construction or workplace utility knives typically feature retractable and replaceable blades, made of either die-cast metal or molded plastic. Some use standard razor blades, others specialized double-ended utility blades. The user can adjust how far the blade extends from the handle, so that, for example, the knife can be used to cut the tape sealing a package without damaging the contents of the package. When the blade becomes dull, it can be quickly reversed or switched for a new one. Spare or used blades are stored in the hollow handle of some models, and can be accessed by removing a screw and opening the handle. Other models feature a quick-change mechanism that allows replacing the blade without tools, as well as a flip-out blade storage tray. The blades for this type of utility knife come in both double- and single-ended versions, and are interchangeable with many, but not all, of the later copies. Specialized blades also exist for cutting string, linoleum, and other materials.
 
 ![Retractable blade knife](../img/cutterblade.jpg)
+
+##  Shear Cutter
+
+![Shear Cutter](../img/cutter.jpg)
