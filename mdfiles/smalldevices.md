@@ -26,11 +26,11 @@
 
 ## PCB Board
 
-![PCB Board](../img/yelanki.jpg)
+![PCB Board](../img/pcbboard.jpg)
 
 ## Allen Key Set
 
-![Allen Key Set](../img/pcbboard.jpg)
+![Allen Key Set](../img/yelanki.jpg)
 
 ## Filament
 
