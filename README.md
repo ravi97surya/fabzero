@@ -5,6 +5,8 @@
 
 [About STPI-Bhubneswar FabLab](fablabstpi.md)
 
+## Fab Lab Training at STPI Bhubneswar
+
 [Day 1 at FabZero Pre-Academy](day1.md)
 
 [Day 2 at FabZero Pre-Academy](day2.md)
