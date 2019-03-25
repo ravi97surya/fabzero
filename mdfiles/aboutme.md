@@ -1,6 +1,6 @@
 	 	
 # रवि एस.सी. / Ravi S.C
-![image of ravi sc](img/ravi.jpg) 
+![image of ravi sc](../img/ravi.jpg) 
 
 ### Emp Code
 STPI334
@@ -11,7 +11,7 @@ Software Technology Parks of India
 ### Qualification
 Diploma in Electronics and communication
 
-[Name on Certificate](mdfiles/certificatename.md)
+[Name on Certificate](certificatename.md)
 
 
 

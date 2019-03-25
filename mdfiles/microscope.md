@@ -8,4 +8,4 @@ The LED illuminator ensures your specimens are clear and bright. An included met
 
 For teens and adults alike, the Deluxe Handheld Digital Microscope is a fun, educational tool. It’s well suited for hobbyists, quality control inspectors, medical professionals, and scientific researchers.
 
-![image of Celestron Handheld Digital Microscope](img/microscope.png)
+![image of Celestron Handheld Digital Microscope](../img/microscope.png)

@@ -18,20 +18,20 @@ STPI has a significant presence in Odisha. It has eight centres in the state, th
 
 [SOFTWARE TECHNOLOGY PARKS OF INDIA](https://www.stpi.in/)
 
-![STPI](img/stpi.png)
+![STPI](../img/stpi.png)
 
 [GOVERNMENT OF ODISHA](http://www.fabfoundation.org/)
 
-![Govt. of Odisha](img/odisha.png)
+![Govt. of Odisha](../img/odisha.png)
 
 [FAB FOUNDATION](https://odisha.gov.in/)
 
-![Fab Foundation](img/fabfound.png)
+![Fab Foundation](../img/fabfound.png)
 
-![Fab Foundation](img/mou1.jpg)
+![Fab Foundation](../img/mou1.jpg)
 
-![Fab Foundation](img/mou2.jpg)
+![Fab Foundation](../img/mou2.jpg)
 
-![Fab Foundation](img/mou3.jpg)
+![Fab Foundation](../img/mou3.jpg)
 
-![Fab Foundation](img/mou4.jpg)
+![Fab Foundation](../img/mou4.jpg)

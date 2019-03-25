@@ -22,7 +22,7 @@ Fab Academy leverages the Fab Lab network to teach hands-on, digital fabrication
 MIT maintained a listing of all official Fab Labs, worldwide, until 2014. Nowadays listing of all official Fab Labs is maintained by the community through website fablabs.io. As of December 2017, there existed 1205 Fab Labs in the world in total.[12] Currently there are Fab Labs on every continent except Antarctica.
 
 ## Benefits of Fab Lab
-![image of 3d cutter](img/fl1.jpg)
+![image of 3d cutter](../img/fl1.jpg)
 
 ## What is Fab Lab..?
-![image of 3d cutter](img/fl2.jpg)
+![image of 3d cutter](../img/fl2.jpg)
