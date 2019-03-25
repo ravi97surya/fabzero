@@ -2,7 +2,7 @@
 
 After an introduction of Mentor by Director BBSR DG STPI :office: has inaugurated FabZero Pre-Academy Training.
 Members of training has introduced themselves to Director BBSR :office: and Men FabZero Academy.
-all Members and mentor has taken tea break :tea:.
+all Members and mentor has taken tea break :tea:.'<span>continue</span>'
 Mentor has started training on FabZero Academy and briefed on the same.
 after a brief introduction on FabZero all Members took lunch break before heading to FabLab Handson.
 after long lunch break :rice_ball::fork_and_knife::bento: mentor has taken everyone to FabLab for Handson.
