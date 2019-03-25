@@ -20,6 +20,7 @@
 
 ## List of FabLab devices
 
+- [Tools](mdfiles/smalldevices.md)
 - [Vinyl Cutter](mdfiles/vinylcutter.md)
 - [3D Printers](mdfiles/3dprinter.md)
 - [Milling Machine](mdfiles/millingmachine.md)
