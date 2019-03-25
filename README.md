@@ -13,7 +13,7 @@
 
 [Day 4 at FabZero Pre-Academy](day4.md)
 
-## list of the FabLab devices
+## List of FabLab devices
 
 - [Vinyl Cutter](vinylcutter.md)
 - [3D Printers](3dprinter.md)
@@ -28,3 +28,12 @@
 - Carbon filter
 - 2D Printer
 - Laser Cutter
+
+## List of Software used at Fab Lab
+
+- Visual Studio Code
+- Git Bash for Windows
+- InkScape
+- KiCad
+- 3DWox Desktop Sindho
+- Free CAD 3D
