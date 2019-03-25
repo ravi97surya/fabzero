@@ -7,6 +7,8 @@
 
 ## FabZero Pre-Academy Training at STPI Bhubneswar
 
+[About Trainers](mdfiles/trainers.md)
+
 [Day 1 at FabZero Pre-Academy](mdfiles/day1.md)
 
 [Day 2 at FabZero Pre-Academy](mdfiles/day2.md)
@@ -23,6 +25,7 @@
 - [3D Printers](mdfiles/3dprinter.md)
 - [Milling Machine](mdfiles/millingmachine.md)
 - [Micro Scope Camera](mdfiles/microscope.md)
+- [3D Scanner](mdfiles/3dscanner.md)
 - Oscilloscope
 - Function Generator
 - Automatic Scroll Machine
