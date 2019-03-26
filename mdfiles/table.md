@@ -1,7 +1,7 @@
 # List of Trainees attending FabZero Pre-Academy Training at STPI Bhubneswar
 
 
-| Sl.No| Centre        | Name               |Desgination |Github Account  |
+| Sl.No| Centre        | Name               |Designation |Github Account  |
 | ---- |:-------------:| :-----------------:|:----------:|:---------------:|
 | 1  | STPI Noida      | Saurabh Kumar      |TO-I        |https://github.com/9582220087 |
 | 2  | STPI Noida      | Sandeep Nair       |MTSS-ES-V   |https://github.com/sandeepstpi246 |
