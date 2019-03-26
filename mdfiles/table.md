@@ -1,5 +1,5 @@
 | Sl.No| Centre        | Name               |Desgination |Github Account  |
-| ---- |:-------------:| ------------------:|-----------:|---------------:|
+| ---- |:-------------:| :-----------------:|:----------:|:---------------:|
 | 1  | STPI Noida      | Saurabh Kumar      |TO-I        |https://github.com/9582220087 |
 | 2  | STPI Noida      | Sandeep Nair       |MTSS-ES-V   |https://github.com/sandeepstpi246 |
 | 3  | STPI Gandhinagar| Shashikant Patel   |MTSS-ES-V   |https://github.com/shashikantstpi |
@@ -19,7 +19,7 @@
 | 17 | STPI Patna      | Samrat Chakraborty |MTSS-ES-VI  |https://github.com/Samrat2019 |
 | 18 | IIIT Bhubneswar | Umesh Chandra Swain|ETC Lab     |https://github.com/umesh1982 |
 | 19 | STPI Bhubneswar | SK Ratha           |MTS-E-II    |https://github.com/situn001 |
-| 20 | STPI Bhubneswar | Susil Sethy        |MTS-E-II    | |
+| 20 | STPI Bhubneswar | Susil Sethy        |MTS-E-II    |https://github.com/susil-sethy |
 | 21 | STPI Bhubneswar | Tapas Barik        |MTSS-ES-VI  |https://github.com/tapasbarik1983 |
 | 22 | STPI Bhubneswar | Nihar Mohanty      |MTSS-ES-VI  |https://github.com/niharmohanty2018 |
 | 23 | STPI Bhubneswar | Deepak Kr Chaudhary|MTSS-ES-V   |https://github.com/deepak2145 |
