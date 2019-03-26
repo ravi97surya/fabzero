@@ -23,6 +23,7 @@
 - Carbon filter
 - 2D Printer
 - Laser Cutter
+[Table](mdfiles/table.md)
 
 ## List of Software used at Fab Lab
 
