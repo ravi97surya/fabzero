@@ -6,7 +6,7 @@
 | 1  | STPI Noida      | Saurabh Kumar      |TO-I        |https://github.com/9582220087 |
 | 2  | STPI Noida      | Sandeep Nair       |MTSS-ES-V   |https://github.com/sandeepstpi246 |
 | 3  | STPI Gandhinagar| Shashikant Patel   |MTSS-ES-V   |https://github.com/shashikantstpi |
-| 4  | STPI Gandhinagar| Gaurav Pachori     |MTSS-ES-V   | |
+| 4  | STPI Gandhinagar| Gaurav Pachori     |MTSS-ES-V   |https://github.com/gauravstpi |
 | 5  | STPI Chennai    | Ramesh Yerkula     |MTS-E-III   |https://github.com/rameshy777 |
 | 6  | STPI Chennai    | V Ganapathiswaran  |MTSS-ES-V   |https://github.com/vgeswar |
 | 7  | STPI Guwahati   | L Moti Lal Sharma  |MTS-E-III   |https://github.com/motilals |

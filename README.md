@@ -1,4 +1,4 @@
-# Ravi's Experience on FabZero
+# `Ravi's Experience on FabZero`
 
 [About RAVI SC](mdfiles/aboutme.md)
 
@@ -6,7 +6,7 @@
 
 [FabZero Pre-Academy Training at STPI Bhubneswar](mdfiles/training.md)
 
-## List of FabLab devices
+## `List of FabLab devices`
 
 - [Tools](mdfiles/smalldevices.md)
 - [Vinyl Cutter](mdfiles/vinylcutter.md)
@@ -25,7 +25,7 @@
 - Laser Cutter
 
 
-## List of Software used at Fab Lab
+## `List of Software used at Fab Lab`
 
 - Visual Studio Code
 - Git Bash for Windows
