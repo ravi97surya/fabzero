@@ -2,7 +2,7 @@
 
 
 | Sl.No| Centre        | Name               |Designation |Github Account  |
-| ---- |:-------------:| :-----------------:|:----------:|:---------------:|
+|:----:|:-------------:| :-----------------:|:----------:|:---------------:|
 | 1  | STPI Noida      | Saurabh Kumar      |TO-I        |https://github.com/9582220087 |
 | 2  | STPI Noida      | Sandeep Nair       |MTSS-ES-V   |https://github.com/sandeepstpi246 |
 | 3  | STPI Gandhinagar| Shashikant Patel   |MTSS-ES-V   |https://github.com/shashikantstpi |
