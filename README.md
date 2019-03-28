@@ -1,4 +1,4 @@
-# `Ravi's Experience on FabZero`
+# Ravi's Experience on FabZero
 
 [About RAVI SC](mdfiles/aboutme.md)
 
@@ -6,7 +6,7 @@
 
 [FabZero Pre-Academy Training at STPI Bhubneswar](mdfiles/training.md)
 
-## `List of FabLab devices`
+## List of FabLab devices
 
 - [Vinyl Cutter](mdfiles/vinylcutter.md)
 - [3D Printers](mdfiles/3dprinter.md)
