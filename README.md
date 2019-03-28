@@ -8,7 +8,6 @@
 
 ## `List of FabLab devices`
 
-- [Tools](mdfiles/smalldevices.md)
 - [Vinyl Cutter](mdfiles/vinylcutter.md)
 - [3D Printers](mdfiles/3dprinter.md)
 - [Milling Machine](mdfiles/millingmachine.md)
@@ -23,13 +22,3 @@
 - Carbon filter
 - 2D Printer
 - Laser Cutter
-
-
-## `List of Software used at Fab Lab`
-
-- Visual Studio Code
-- Git Bash for Windows
-- InkScape
-- KiCad
-- 3DWox Desktop Sindho
-- Free CAD 3D
