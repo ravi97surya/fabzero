@@ -18,3 +18,7 @@
 [Day 7 at FabZero Pre-Academy](day7.md)
 
 [Day 8 at FabZero Pre-Academy](day8.md)
+
+[Day 9 at FabZero Pre-Academy](day9.md)
+
+[Day 10 at FabZero Pre-Academy](day10.md)
